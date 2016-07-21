@@ -61,7 +61,7 @@ const UserLoginLogModel = mongooseConn.model('UserLoginLog');
 const log = yield UserLoginLogModel.create({
   user_id: 1000,
   type: 'login',
-  ip: '192.168.1.100'
+  ip: '192.168.1.100',
   ua: 'xxx'
 });
 ```
