@@ -51,7 +51,7 @@ const blog = yield Blog.create({
 
 Or
 
-Build skyer-mongoose-component with model_path options.
+> Build skyer-mongoose-component with model_path options.
 
 ```js
 const mongooseConn = skyer.componentManager.getComponent('mongoose');
