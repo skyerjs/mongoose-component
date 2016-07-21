@@ -1,0 +1,27 @@
+{
+  "name": "skyer-mongoose-component",
+  "version": "0.1.0",
+  "description": "Skyer mongoose component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skyerjs/mongoose-component.git"
+  },
+  "keywords": [
+    "skyer",
+    "component",
+    "mongoose"
+  ],
+  "author": "jerrywu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skyerjs/mongoose-component/issues"
+  },
+  "homepage": "https://github.com/skyerjs/mongoose-component#readme",
+  "dependencies": {
+    "mongoose": "^4.5.5"
+  }
+}
